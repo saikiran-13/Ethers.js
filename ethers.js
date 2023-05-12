@@ -8,7 +8,7 @@ const RPC = 'https://polygon-mumbai.g.alchemy.com/v2/BwyHvHONilHMEc9QpsoGpyJ9wXJ
 const account = '0xec18A3d572487d4DEFdd3864E7e992148319ca40'
 const account2 = '0xe6A9D13D93CbA162A0fB46d338ADD071247910f3'
 const account3 = '0x4d8f1cFF7b1414bE6F773b7Fda772Cee94B92f1f'
-const privateKey = 'e36e452fdf5c6ba33fb664b65d9bf13ea2057c157171381bc782844f80929cf3'
+const privateKey = 'private key'
 //In package.json,ethers version should be ^5.4.0 and in terminal use command "npm install"
 
 const provider = new ethers.providers.JsonRpcProvider(RPC)
